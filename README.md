@@ -4,7 +4,7 @@ ID:CT08DS6561
 Domain:CYBER SECURITY AND ETHICAL HACKING
 Duration:  4 WEEKS from AUGUST 5th, 2024 to SEPTEMBER 5th,2024.
 Mentor:Muzammil Ahmed
-
+AIM: TASK 1 OF CODTECH IT SOLUTIONs.
 
 OVERVIEW OF THE PROJECT:
 Project: password strength checker 
