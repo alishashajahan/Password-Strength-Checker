@@ -16,4 +16,3 @@ elif not re.search("[0-9]", password):
 else:
     print("Password is strong.")
 
-
